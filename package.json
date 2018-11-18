@@ -1,0 +1,17 @@
+{
+  "name": "comprudentialweathermap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "wdio-cucumber-framework": "^2.2.8",
+    "wdio-selenium-standalone-service": "0.0.10"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
